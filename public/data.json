@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DotBlog",
+    "info": "Powered by ASP.NET Core",
+    "description": "基于ASP.NET Core搭建的博客后端",
+    "link": "",
+    "showGitHub": true,
+    "gitHub": ""
+  }
+]
