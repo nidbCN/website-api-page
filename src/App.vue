@@ -1,6 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
+      <v-app-bar-title>API参考</v-app-bar-title>
       <v-spacer></v-spacer>
       <v-btn href="https://www.gaein.cn" text>
         <span class="mr-2">首页</span>

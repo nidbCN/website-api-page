@@ -8,10 +8,7 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home,
-    meta:{
-      title:'API列表 | Gaein nidb 的网站'
-    }
+    component: Home
   }
 ]
 
