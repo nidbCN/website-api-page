@@ -11,7 +11,7 @@
     "name": "SeeTheWorld",
     "info": "Powered by ASP.NET Core",
     "description": "基于ASP.NET Core开发的随机必应图片获取，返回随机的图片链接。",
-    "link": "https://api.gaein.cn/SeeTheWorld/swagger/index.html",
+    "link": "https://api.gaein.cn/SeeTheWorld/docs/index.html",
     "showGitHub": true,
     "gitHub": "https://github.com/nidbCN/DotBlog-Backend"
   }
