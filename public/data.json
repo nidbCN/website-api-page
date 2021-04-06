@@ -3,7 +3,7 @@
     "name": "DotBlog",
     "info": "Powered by ASP.NET Core",
     "description": "基于ASP.NET Core搭建的博客后端",
-    "link": "://api.gaein.cn/DotBlog/docs",
+    "link": "https`://api.gaein.cn/DotBlog/docs",
     "showGitHub": true,
     "gitHub": "https://github.com/nidbCN/DotBlog-Backend"
   },
